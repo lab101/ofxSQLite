@@ -9,6 +9,7 @@
 #include "ofxSQLiteTypeNow.h"
 #include <iostream>
 #include <stdio.h>
+#include <stdint.h>
 
 enum OperatorType {
 	 OP_GREATER_THAN

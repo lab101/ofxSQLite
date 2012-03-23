@@ -1,6 +1,7 @@
 #ifndef OFXSQLITETYPEH
 #define OFXSQLITETYPEH
 #include <string>
+#include <stdint.h>
 
 enum {
  	 OFX_SQLITE_TYPE_INT
